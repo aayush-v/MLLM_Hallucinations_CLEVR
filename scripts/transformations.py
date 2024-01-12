@@ -1,8 +1,19 @@
 import albumentations as A
 import cv2
 import random
+import inspect
 
 random.seed(7777)
+# random.seed(12321)
+# random.seed(10101)
+
+
+def pickMethod(img_path):
+    # methods = [gaussianLowPassFilter, medianFilter, zoomBlur, gaussNoiseAddition, isoNoiseAddition, multiplicativeNoiseAddition, randomGammaAddition, randomBrightnessContrastAddition, imageCompression]
+    methods = [gaussianLowPassFilter, medianFilter, zoomBlur, gaussNoiseAddition, isoNoiseAddition, multiplicativeNoiseAddition]
+    method_picked = random.choice(methods)
+    method_default_params = inspect.signature(method_picked)
+    return method_picked(img_path), method_picked.__name__ + str(inspect.signature(method_picked)) 
 
 def gaussianLowPassFilter(img_path, blur_limit=(21, 21), sigma_limit=(21, 21)):
     img = cv2.imread(img_path)
