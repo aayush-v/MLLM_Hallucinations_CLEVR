@@ -1,0 +1,11 @@
+[
+    {
+        "image_filename": "CLEVR_val_000002.png",
+        "question": "Is the color of the metal block that is right of the yellow rubber object the same as the large metal cylinder or do the large metal sphere and the matte block have the same color?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The color of the metal block that is right of the yellow rubber object is different from the large metal cylinder and the matte block.",
+        "consistent": ""
+    }
+]

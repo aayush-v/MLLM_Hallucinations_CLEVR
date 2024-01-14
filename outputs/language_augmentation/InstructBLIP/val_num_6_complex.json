@@ -1,0 +1,11 @@
+[
+    {
+        "image_filename": "CLEVR_val_000004.png",
+        "question": "Is there a metallic object left of the gray object that is behind the large cylinder that is in front of the green matte object and there is a red object; doesn't it have the same shape as the big object that is left of the big rubber ball?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "yes",
+        "consistent": ""
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "image_filename": "CLEVR_val_000004.png",
+        "question": "Isn't there a metallic object left of the gray object that is behind the large cylinder that is in front of the green matte object?",
+        "q1 answer": "no",
+        "q2 answer": "NA",
+        "ground_truth": "yes",
+        "model_generated_answer": "yes",
+        "consistent": ""
+    }
+]

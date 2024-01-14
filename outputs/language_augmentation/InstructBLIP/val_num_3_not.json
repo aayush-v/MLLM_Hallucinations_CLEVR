@@ -1,0 +1,11 @@
+[
+    {
+        "image_filename": "CLEVR_val_000006.png",
+        "question": "Isn't the shape of the small gray matte thing the same as the object behind the big green rubber object?",
+        "q1 answer": "no",
+        "q2 answer": "NA",
+        "ground_truth": "yes",
+        "model_generated_answer": "no",
+        "consistent": ""
+    }
+]

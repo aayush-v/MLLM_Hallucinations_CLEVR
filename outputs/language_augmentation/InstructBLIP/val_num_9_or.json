@@ -1,0 +1,11 @@
+[
+    {
+        "image_filename": "CLEVR_val_000008.png",
+        "question": "Do the purple cylinder and the yellow rubber thing have the same size or there is a metal cube that is behind the tiny yellow thing; is there a yellow rubber object on the left side of it?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "there is a yellow rubber object on the left side of it",
+        "consistent": ""
+    }
+]

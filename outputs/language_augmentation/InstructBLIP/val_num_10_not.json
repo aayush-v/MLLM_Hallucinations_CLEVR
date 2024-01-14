@@ -1,0 +1,11 @@
+[
+    {
+        "image_filename": "CLEVR_val_000001.png",
+        "question": "Isn't there anything else that has the same color as the large shiny cube?",
+        "q1 answer": "yes",
+        "q2 answer": "NA",
+        "ground_truth": "no",
+        "model_generated_answer": "no",
+        "consistent": ""
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "image_filename": "CLEVR_val_000037.png",
+        "question": "Aren't there any large brown matte objects that have the same shape as the tiny blue thing?",
+        "q1 answer": "no",
+        "q2 answer": "NA",
+        "ground_truth": "yes",
+        "model_generated_answer": "no",
+        "consistent": ""
+    }
+]
