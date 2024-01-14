@@ -1,0 +1,11 @@
+[
+    {
+        "image_filename": "CLEVR_val_000000.png",
+        "question": "Are there any other things that are the same shape as the big metallic object and isn't there a big brown object of the same shape as the green thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "Yes, there are other things that are the same shape as the big metallic object and isn't there a big brown object of the same shape as the green thing. Yes, there are other things that are the same shape as the big metallic object and isn't there a big brown object of the same shape as the green thing.",
+        "consistent": ""
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "image_filename": "CLEVR_val_000003.png",
+        "question": "Don't the small shiny object and the matte cylinder have the same color?",
+        "q1 answer": "yes",
+        "q2 answer": "NA",
+        "ground_truth": "no",
+        "model_generated_answer": "Yes, the small shiny object and the matte cylinder have the same color. No, the small shiny object and the matte cylinder have different colors. Yes, the small shiny object and the matte cylinder have the same color. No, the small shiny object and the matte cylinder have different colors. Yes, the small shiny object and the matte cylinder have the same color. No, the small shiny object and the matte cylinder have different colors. Yes, the small shiny object and the matte cylinder have the same color. No, the small shiny object and the matte cylinder have different colors. Yes, the small shiny object and the matte cylinder have the same color. No, the small shiny object and the matte cylinder have different colors. Yes, the small shiny object and the matte cylinder have the same color. No, the small shiny object and the matte cylinder have different colors. Yes, the small shiny object and the matte cylinder have the same color. No, the small shiny object and the matte cylinder have different colors. Yes, the small shiny object and the mat",
+        "consistent": ""
+    }
+]

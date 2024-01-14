@@ -1,0 +1,11 @@
+[
+    {
+        "image_filename": "CLEVR_val_000037.png",
+        "question": "Are there any large brown matte objects that have the same shape as the tiny blue thing and are the yellow object and the small thing on the right side of the tiny yellow object made of the same material?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "no",
+        "model_generated_answer": "No, there are no large brown matte objects that have the same shape as the tiny blue thing and are the yellow object and the small thing on the right side of the tiny yellow object made of the same material.",
+        "consistent": ""
+    }
+]

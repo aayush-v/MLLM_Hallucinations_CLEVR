@@ -1,0 +1,11 @@
+[
+    {
+        "image_filename": "CLEVR_val_000003.png",
+        "question": "Do the small shiny object and the matte cylinder have the same color and aren't there any tiny matte spheres that have the same color as the big cylinder?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "no",
+        "model_generated_answer": "Yes, the small shiny object and the matte cylinder have the same color and there are no tiny matte spheres that have the same color as the big cylinder.",
+        "consistent": ""
+    }
+]

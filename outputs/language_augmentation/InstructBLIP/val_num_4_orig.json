@@ -1,0 +1,11 @@
+[
+    {
+        "image_filename": "CLEVR_val_000007.png",
+        "question": "Are there any gray rubber spheres on the left side of the matte block that is to the right of the tiny rubber cylinder?",
+        "q1 answer": "no",
+        "q2 answer": "NA",
+        "ground_truth": "no",
+        "model_generated_answer": "no",
+        "consistent": ""
+    }
+]

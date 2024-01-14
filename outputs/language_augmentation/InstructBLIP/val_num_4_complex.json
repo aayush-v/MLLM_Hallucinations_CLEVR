@@ -1,0 +1,11 @@
+[
+    {
+        "image_filename": "CLEVR_val_000007.png",
+        "question": "Are there any gray rubber spheres on the left side of the matte block that is to the right of the tiny rubber cylinder and aren't there an equal number of small things that are left of the gray object and large cyan matte balls?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there are gray rubber spheres on the left side of the matte block that is to the right of the tiny rubber cylinder and aren't there an equal number of small things that are left of the gray object and large cyan matte balls. Yes, there are gray rubber spheres on the left side of the matte block that is to the right of the tiny rubber cylinder and aren't there an equal number of small things that are left of the gray object and large cyan matte balls. Yes, there are gray rubber spheres on the left side of the matte block that is to the right of the tiny rubber cylinder and aren't there an equal number of small things that are left of the gray object and large cyan matte balls. Yes, there are gray rubber spheres on the left side of the matte block that is to the right of the tiny rubber cylinder and aren't there an equal number of small things that are left of the gray object and large cyan matte balls. Yes, there are gray rubber spheres on the left side of the matte block that is to the right of the tiny rubber cylinder and",
+        "consistent": ""
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "image_filename": "CLEVR_val_000006.png",
+        "question": "Is the shape of the small gray matte thing the same as the object behind the big green rubber object or is the color of the large shiny object the same as the small ball?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The shape of the small gray matte thing is different from the object behind the big green rubber object, but the color of the large shiny object is the same as the small ball.",
+        "consistent": ""
+    }
+]

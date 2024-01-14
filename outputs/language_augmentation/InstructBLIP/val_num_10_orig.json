@@ -1,0 +1,11 @@
+[
+    {
+        "image_filename": "CLEVR_val_000001.png",
+        "question": "Is there anything else that has the same color as the large shiny cube?",
+        "q1 answer": "yes",
+        "q2 answer": "NA",
+        "ground_truth": "yes",
+        "model_generated_answer": "No, the large shiny cube is the only object with that color.",
+        "consistent": ""
+    }
+]
