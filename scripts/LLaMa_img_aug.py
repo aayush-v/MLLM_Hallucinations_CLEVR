@@ -1,6 +1,6 @@
-import cv2
+# import cv2
 import torch
-from PIL import Image
+# from PIL import Image
 import llama
 import json
 from tqdm import tqdm
