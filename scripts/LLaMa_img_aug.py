@@ -1,6 +1,5 @@
-# import cv2
 import torch
-# from PIL import Image
+from PIL import Image
 import llama
 import json
 from tqdm import tqdm
@@ -31,7 +30,7 @@ for i in range(3,11):
         prompt = llama.format_prompt(each['question'])
         # img = Image.fromarray(cv2.imread(image_path+each['image_filename']))
         img, aug_conf = pickMethod(image_path+each['image_filename'])
-        img = preprocess(img).unsqueeze(0).to(device)
+        img = preprocess(Image.fromarray(img)).unsqueeze(0).to(device)
         result = model.generate(img, [prompt])[0]
         each_copy['model_generated_answer'] = result
         each_copy['img_aug_conf'] = aug_conf
