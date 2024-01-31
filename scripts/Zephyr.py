@@ -70,8 +70,8 @@ def evalZephyr(promptList):
 
     return consistent_texts
 
-QA_PATH = '/scratch/nmachav1/MLLM_Hallucinations_CLEVR/outputs/Model_Answers/'
-SAVE_FOLDER = '/scratch/nmachav1/MLLM_Hallucinations_CLEVR/outputs/Zephyr_Results/'
+QA_PATH = '/scratch/nmachav1/MLLM_Hallucinations_CLEVR/outputs/language_augmentation/InstructBLIP'
+SAVE_FOLDER = '/scratch/nmachav1/MLLM_Hallucinations_CLEVR/outputs/language_augmentation/Zephyr_Results'
 all_files = []
 for root, dirs, files in os.walk(QA_PATH):
     # Exclude files from the ".ipynb_checkpoints" folder
