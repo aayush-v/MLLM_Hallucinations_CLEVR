@@ -7,5 +7,2741 @@
         "ground_truth": "yes",
         "model_generated_answer": "No, there are no large brown matte objects that have the same shape as the tiny blue thing. The yellow object and the small thing on the right side of the tiny yellow object are not made of the same material.",
         "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000062.png",
+        "question": "Is there any other thing that is the same size as the yellow metallic sphere or are there any big red objects that have the same material as the large yellow thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "No, there are no other objects that are the same size as the yellow metallic sphere. The only object that is the same size as the yellow metallic sphere is the yellow metallic sphere itself.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000069.png",
+        "question": "There is a rubber thing that is to the right of the tiny matte thing; is it the same color as the tiny object behind the tiny metal thing or do the yellow object and the big rubber thing have the same shape?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "the yellow object and the big rubber thing have the same shape.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000103.png",
+        "question": "Is there any other thing that is made of the same material as the gray object or are there the same number of small cylinders in front of the big gray matte cylinder and cyan rubber balls?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is another object that is made of the same material as the gray object, and there are the same number of small cylinders in front of the big gray matte cylinder and cyan rubber balls.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000115.png",
+        "question": "There is a red cylinder to the right of the small yellow metal thing; is it the same size as the red metal thing that is behind the yellow shiny cylinder or there is a matte cylinder right of the red metal cylinder; is it the same size as the yellow cylinder?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "there is a matte cylinder right of the red metal cylinder",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000128.png",
+        "question": "Is there anything else that has the same size as the red thing or is the color of the tiny metallic object on the right side of the big red metallic thing the same as the shiny object behind the small cyan object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The color of the tiny metallic object on the right side of the big red metallic thing is the same as the shiny object behind the small cyan object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000202.png",
+        "question": "Are there more objects that are in front of the red shiny cylinder than big green shiny balls or does the yellow object have the same material as the tiny purple thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are more objects that are in front of the red shiny cylinder than the big green shiny balls.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000281.png",
+        "question": "Does the large rubber object have the same color as the tiny rubber cube in front of the small yellow matte block or there is a thing that is behind the blue shiny object; is it the same size as the rubber cube that is in front of the small yellow matte object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "No, the large rubber object is not the same size as the tiny rubber cube in front of the small yellow matte block. The large rubber object is much larger than the tiny rubber cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000285.png",
+        "question": "Is there a red metallic object of the same size as the brown ball or do the large purple thing and the blue ball behind the purple matte sphere have the same material?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a red metallic object of the same size as the brown ball. The large purple thing and the blue ball behind the purple matte sphere do not have the same material.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000325.png",
+        "question": "Are there any big gray metal things that have the same shape as the small yellow rubber object or are there fewer brown rubber cylinders that are behind the small brown rubber cylinder than yellow matte objects that are in front of the yellow thing?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer brown rubber cylinders that are behind the small brown rubber cylinder than yellow matte objects that are in front of the yellow thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000326.png",
+        "question": "Does the object left of the yellow shiny sphere have the same material as the tiny green ball that is right of the big metal object or do the green sphere and the large yellow thing have the same material?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The object left of the yellow shiny sphere has the same material as the tiny green ball that is right of the big metal object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000351.png",
+        "question": "Is there any other thing that has the same size as the purple rubber cube or are there any small matte balls that have the same color as the matte object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "Yes, there are small matte balls that have the same color as the purple rubber cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000360.png",
+        "question": "There is a big thing; is its shape the same as the rubber object behind the cyan metal object or are there an equal number of large balls on the left side of the brown rubber ball and large brown things in front of the tiny cyan thing?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are an equal number of large balls on the left side of the brown rubber ball and large brown things in front of the tiny cyan thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000446.png",
+        "question": "Is the shape of the large brown object in front of the brown metallic object the same as  the gray matte object or are there the same number of big brown balls behind the brown matte object and brown shiny objects?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The shape of the large brown object in front of the brown metallic object is not the same as the number of big brown balls behind the brown matte object and the brown shiny objects. There is only one large brown object in front of the brown metallic object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000480.png",
+        "question": "Is there any other thing that is made of the same material as the green thing or is there a green object made of the same material as the green cube?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is another green object made of the same material as the green cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000516.png",
+        "question": "Are there fewer big green things on the left side of the cyan cube than large green cubes or is there a cyan shiny block that has the same size as the green metallic block?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a cyan shiny block that has the same size as the green metallic block.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000606.png",
+        "question": "Is there a purple rubber object that has the same shape as the big green object or are there any small blue things in front of the purple matte thing that is on the right side of the small ball that is on the left side of the small red thing?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a purple rubber object that has the same shape as the big green object. There are no small blue things in front of the purple matte thing on the right side of the small ball on the left side of the small red thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000639.png",
+        "question": "Does the gray object have the same shape as the large blue matte thing or is there a big block that is behind the large thing that is in front of the big thing that is left of the blue matte cube?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The gray object does not have the same shape as the large blue matte thing. There is a big block that is behind the large thing that is in front of the big thing that is left of the blue matte cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000707.png",
+        "question": "Are there any tiny brown things that are on the right side of the rubber thing that is on the right side of the small brown cube or there is a small rubber object on the right side of the tiny brown matte thing; is it the same color as the thing behind the small brown matte thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "Yes, there is a small rubber object on the right side of the tiny brown matte thing, and it is the same color as the thing behind the small brown matte thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000779.png",
+        "question": "There is a big blue thing; are there any blue cubes on the left side of it or is there another cyan metallic object of the same shape as the cyan thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is another cyan metallic object of the same shape as the cyan thing on the left side of it.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000781.png",
+        "question": "Is there any other thing that is made of the same material as the large purple ball or does the big object in front of the large green matte object have the same material as the big green ball?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The big object in front of the large green matte object does not have the same material as the large purple ball. The big object in front of the large green matte object is made of metal, while the large purple ball is made of plastic.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000789.png",
+        "question": "There is a metal thing left of the tiny blue cylinder; is it the same size as the shiny cylinder in front of the cyan shiny thing or are there any purple rubber things?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a metal thing left of the tiny blue cylinder, and it is the same size as the shiny cylinder in front of the cyan shiny thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000805.png",
+        "question": "Is there any other thing that is made of the same material as the blue object or are there any other things that are the same color as the big matte object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "No, there are no other things that are made of the same material as the blue object or are the same color as the big matte object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000838.png",
+        "question": "Is there anything else that has the same size as the purple cylinder or do the gray object and the cylinder left of the matte cylinder have the same material?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The gray object and the cylinder left of the matte cylinder have the same material.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000893.png",
+        "question": "Is the number of rubber balls greater than the number of small green things or are the green thing that is in front of the purple metallic object and the purple cube made of the same material?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of rubber balls is greater than the number of small green things.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000973.png",
+        "question": "Are there fewer cyan spheres than tiny purple metal cubes or is the number of small purple rubber things that are in front of the tiny purple metallic block greater than the number of purple cubes that are left of the brown block?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of small purple rubber things that are in front of the tiny purple metallic block is greater than the number of purple cubes that are left of the brown block.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_000974.png",
+        "question": "Is there a green thing that has the same size as the red rubber object or are there more tiny brown rubber things than green metallic blocks?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are more tiny brown rubber things than green metallic blocks.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_001107.png",
+        "question": "Does the green thing on the right side of the small purple shiny ball have the same material as the small yellow sphere that is in front of the large rubber object or is the yellow ball made of the same material as the large ball?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The green thing on the right side of the small purple shiny ball is made of a different material than the small yellow sphere that is in front of the large rubber object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_001159.png",
+        "question": "Is the number of small purple balls on the left side of the purple metallic sphere less than the number of brown things or is the number of small blue shiny balls less than the number of brown metal spheres?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of small purple balls on the left side of the purple metallic sphere is less than the number of brown things.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_001187.png",
+        "question": "Are there any other things that are the same size as the red metal object or there is a tiny metal thing that is on the left side of the small cyan thing; is there a small thing that is right of it?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there is a tiny metal thing that is on the left side of the small cyan thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_001188.png",
+        "question": "Is there any other thing that is the same material as the large cyan cube or is the material of the large purple cube the same as the large red block?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The material of the large purple cube is the same as the large red block.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_001264.png",
+        "question": "There is a small metal thing; is its shape the same as the big thing that is behind the red matte cube or do the thing that is behind the big red matte cube and the tiny gray matte object have the same shape?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The tiny gray matte object has the same shape as the big red matte cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_001322.png",
+        "question": "Is there any other thing of the same color as the shiny ball or are there fewer tiny spheres that are on the right side of the tiny red metal object than red cubes?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are fewer tiny spheres that are on the right side of the tiny red metal object than red cubes.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_001386.png",
+        "question": "Is there a metallic sphere of the same color as the big metallic thing or are the purple cube and the thing to the left of the large purple thing made of the same material?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a metallic sphere of the same color as the big metallic thing, which is purple. The purple cube and the thing to the left of the large purple thing are also made of the same material.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_001532.png",
+        "question": "Are there any other things that have the same material as the gray cylinder or there is a cyan thing that is in front of the metal thing; is its size the same as the gray metal thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there are other things that have the same material as the gray cylinder, and there is a cyan thing that is in front of the metal thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_001566.png",
+        "question": "There is a cylinder in front of the big cyan rubber thing; are there any big matte things that are in front of it or there is a tiny yellow object; is it the same shape as the shiny thing that is to the left of the small yellow metal cylinder?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "yes, it is the same shape as the shiny thing that is to the left of the small yellow metal cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_001642.png",
+        "question": "Are there any red matte balls that have the same size as the green metal thing or are there any other tiny balls that have the same color as the matte ball?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "No, there are no red matte balls that have the same size as the green metal thing, and there are no other tiny balls that have the same color as the matte ball.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_001671.png",
+        "question": "Is there a brown cylinder that has the same material as the brown thing or is there a brown matte cylinder that is left of the tiny brown rubber cylinder in front of the small red metal object on the right side of the brown thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is a brown matte cylinder that is left of the tiny brown rubber cylinder in front of the small red metal object on the right side of the brown thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_001692.png",
+        "question": "Is the number of brown balls less than the number of tiny spheres or are the tiny purple object and the big brown ball made of the same material?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of brown balls is less than the number of tiny spheres.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_001877.png",
+        "question": "There is a cyan sphere; are there any cyan spheres behind it or is there a big red sphere that has the same material as the brown sphere?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is a cyan sphere, and there is a big red sphere that has the same material as the brown sphere.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_001892.png",
+        "question": "Is there anything else that is the same material as the yellow cube or there is a small rubber thing behind the tiny cube that is in front of the tiny yellow block; are there any tiny red things in front of it?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a small rubber thing behind the tiny cube, and there are no tiny red things in front of it.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_001912.png",
+        "question": "Are there the same number of small green things that are in front of the green matte cylinder and matte cylinders or are there any cylinders on the left side of the small green object?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are the same number of small green things in front of the green matte cylinder as there are on the left side of the small green object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_001922.png",
+        "question": "Is there another rubber ball that has the same size as the green sphere or do the metallic thing to the right of the tiny cyan metallic ball and the rubber object that is to the left of the green rubber object have the same color?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The metallic thing to the right of the tiny cyan metallic ball and the rubber object that is to the left of the green rubber object have different colors.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002063.png",
+        "question": "Are there more purple objects that are in front of the large gray metallic cylinder than large purple metal objects behind the large purple shiny thing or are there any other things that have the same color as the big matte thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are more purple objects that are in front of the large gray metallic cylinder than large purple metal objects behind the large purple shiny thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002086.png",
+        "question": "Do the big object and the small metal thing have the same color or are the gray cylinder on the left side of the tiny gray object and the gray cylinder in front of the big gray cylinder made of the same material?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The big object and the small metal thing do not have the same color. The small metal thing is red, while the big object is gray.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002124.png",
+        "question": "Is there any other thing that has the same size as the green matte object or are there more purple objects than big red cylinders?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are more purple objects than big red cylinders.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002165.png",
+        "question": "Does the small cylinder have the same color as the metal cylinder or is there anything else that is the same material as the large blue cylinder?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The small cylinder has the same color as the large blue cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002266.png",
+        "question": "Is the large matte object the same color as the small thing or are there any green metallic spheres that have the same size as the matte object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are no green metallic spheres that have the same size as the matte object. The large matte object and the small object are different colors, with the large matte object being silver and the small object being blue.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002286.png",
+        "question": "Does the large matte object to the left of the tiny object have the same shape as the red metal thing or is there another large thing that has the same shape as the metallic object?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The large matte object to the left of the tiny object does not have the same shape as the red metal thing. There is another large object that has the same shape as the metallic object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002292.png",
+        "question": "Is the big metallic block the same color as the small shiny block or are the block that is in front of the purple thing and the big thing to the left of the large metallic thing made of the same material?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The big metallic block is not the same color as the small shiny block. The small shiny block is purple, while the big metallic block is silver.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002338.png",
+        "question": "Do the tiny cyan object and the cyan sphere that is left of the big cyan metal thing have the same material or there is a cyan ball on the left side of the cyan shiny sphere; is it the same size as the small ball?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, the tiny cyan object and the cyan sphere that is left of the big cyan metal thing have the same material and are the same size.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002345.png",
+        "question": "Does the purple object have the same shape as the small gray object or are there any small gray balls made of the same material as the tiny green sphere?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The purple object has the same shape as the small gray object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002390.png",
+        "question": "Are there more big cyan shiny balls on the left side of the big red sphere than cyan metal objects or is the number of big rubber spheres greater than the number of cyan shiny balls?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are more big cyan shiny balls on the left side of the big red sphere than cyan metal objects.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002415.png",
+        "question": "Is there any other thing that has the same size as the brown matte object or are there more brown things behind the small object than big cylinders?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are more brown things behind the small object than big cylinders.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002427.png",
+        "question": "Do the big object that is on the right side of the gray rubber cube and the small object have the same material or there is a cube in front of the blue object; are there any matte objects that are to the right of it?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The big object on the right side of the gray rubber cube and the small object do not have the same material. There is a cube in front of the blue object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002430.png",
+        "question": "Does the big metal object to the left of the large red thing have the same shape as the big metal object that is right of the yellow ball or is there another metallic thing of the same color as the tiny metallic thing?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The big metal object to the left of the large red thing has the same shape as the big metal object that is right of the yellow ball.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002436.png",
+        "question": "Are there an equal number of gray rubber objects that are left of the metal object and small shiny objects on the right side of the cyan matte object or do the large rubber object behind the tiny green cube and the green object have the same shape?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are an equal number of gray rubber objects that are left of the metal object and small shiny objects on the right side of the cyan matte object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002542.png",
+        "question": "Is there anything else that is the same shape as the big yellow object or are there the same number of tiny yellow spheres that are on the right side of the big green object and large metal blocks?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The big yellow object and the tiny yellow spheres on the right side of the big green object are the same shape. There are the same number of tiny yellow spheres on the right side of the big green object as there are large metal blocks on the left side of the big green object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002620.png",
+        "question": "Are the tiny cyan cylinder and the big thing left of the small cyan thing made of the same material or there is a cylinder that is in front of the purple thing; is its size the same as the blue rubber thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, the tiny cyan cylinder and the big thing left of the small cyan thing are made of the same material.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002678.png",
+        "question": "There is a thing that is left of the tiny red metal thing; is it the same color as the big object or is the material of the tiny object in front of the large thing the same as the large thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The material of the tiny red metal thing is different from the material of the large object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002722.png",
+        "question": "There is a tiny object to the left of the gray metal cylinder; does it have the same color as the small metal cylinder or are there any tiny gray things in front of the gray metallic cylinder?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is a tiny object to the left of the gray metal cylinder, and it has the same color as the small metal cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002766.png",
+        "question": "Is the brown object the same size as the purple thing or there is a purple metal object; does it have the same size as the red metal sphere that is in front of the purple sphere?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The brown object is the same size as the red metal sphere that is in front of the purple sphere.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002785.png",
+        "question": "Does the tiny metal thing that is in front of the brown metal object have the same color as the large metallic sphere or do the small thing to the left of the brown thing and the small brown thing have the same material?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The tiny metal thing that is in front of the brown metal object has the same color as the large metallic sphere.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002791.png",
+        "question": "Is there a gray cylinder of the same size as the purple matte cylinder or does the cylinder that is right of the small blue thing have the same size as the blue matte thing that is right of the yellow object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is a gray cylinder of the same size as the purple matte cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002960.png",
+        "question": "Are there fewer matte balls that are in front of the red object than brown matte balls left of the big gray thing or is the shape of the big gray object the same as the brown thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer matte balls that are in front of the red object than brown matte balls left of the big gray thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_002971.png",
+        "question": "Is there anything else that has the same material as the large green cube or does the small gray cube have the same material as the large thing in front of the large rubber block?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The small gray cube has the same material as the large green cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003070.png",
+        "question": "Are there any other things that are the same size as the green rubber thing or is the number of green blocks less than the number of large brown cylinders?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "number of green blocks is less than the number of large brown cylinders",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003105.png",
+        "question": "Is there anything else that has the same material as the tiny ball or is the number of cyan things behind the cyan matte object less than the number of big yellow matte cylinders?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there is something else that has the same material as the tiny ball. The number of cyan things behind the cyan matte object is less than the number of big yellow matte cylinders.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003146.png",
+        "question": "There is a big shiny object to the left of the big purple metal object; is its shape the same as the small blue rubber object or are there any tiny purple matte things?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The shape of the big shiny object is the same as the small blue rubber object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003166.png",
+        "question": "Are there an equal number of tiny matte cylinders behind the cyan cylinder and small cyan rubber objects or is there anything else that has the same material as the cyan thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are an equal number of tiny matte cylinders behind the cyan cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003189.png",
+        "question": "Is the number of brown rubber balls greater than the number of metal cylinders or there is a small thing on the right side of the small yellow metal thing; is it the same shape as the yellow metallic thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of brown rubber balls is greater than the number of metal cylinders.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003233.png",
+        "question": "Are there any purple metallic cubes or is the number of rubber objects greater than the number of small balls?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "number of rubber objects greater than the number of small balls",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003271.png",
+        "question": "Is there any other thing that has the same material as the tiny gray thing or do the block to the right of the purple shiny thing and the tiny gray matte cube have the same size?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The tiny gray matte cube has the same size as the block to the right of the purple shiny thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003356.png",
+        "question": "Are there any other things that are the same material as the purple cube or do the cube that is behind the small object and the rubber thing that is in front of the big green object have the same size?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "Yes, there are other things that are the same material as the purple cube. The cube that is behind the small object and the rubber thing that is in front of the big green object also have the same size.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003398.png",
+        "question": "Do the blue object and the tiny cyan object have the same material or there is a cyan object; is it the same size as the metallic object that is in front of the blue object?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, the blue object and the tiny cyan object have the same material, and they are the same size as the metallic object that is in front of the blue object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003411.png",
+        "question": "Are there any large rubber cylinders of the same color as the large shiny cylinder or are there any cylinders that have the same material as the red object?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are no large rubber cylinders of the same color as the large shiny cylinder, and there are no cylinders that have the same material as the red object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003476.png",
+        "question": "Is there a yellow shiny cylinder of the same size as the green metallic cylinder or is the number of large green metallic cylinders greater than the number of small purple matte cubes?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a yellow shiny cylinder of the same size as the green metallic cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003480.png",
+        "question": "Does the green thing that is left of the tiny rubber object have the same shape as the big blue shiny thing or there is a large matte cylinder; is its color the same as the rubber object in front of the big matte object?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The green thing that is left of the tiny rubber object has the same shape as the big blue shiny thing, and its color is the same as the rubber object in front of the big matte object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003512.png",
+        "question": "Are there any small cyan things of the same shape as the big rubber thing or is there a tiny red ball?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a small cyan thing of the same shape as the big rubber thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003524.png",
+        "question": "Is there any other thing that has the same size as the brown cube or is the number of brown metallic blocks less than the number of metal cubes?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of brown metallic blocks is less than the number of metal cubes.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003556.png",
+        "question": "Is the size of the cyan block the same as the red metal thing or is there a big shiny sphere of the same color as the tiny metal thing?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a big shiny sphere of the same color as the tiny metal thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003716.png",
+        "question": "Is there anything else that is made of the same material as the green thing or is there a purple matte cylinder that has the same size as the green matte object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is a purple matte cylinder that has the same size as the green matte object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003893.png",
+        "question": "Is the number of blue cylinders greater than the number of large purple matte cylinders or does the metallic cylinder on the right side of the tiny yellow metallic cylinder have the same color as the metal cylinder that is on the left side of the large object?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of blue cylinders is greater than the number of large purple matte cylinders.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_003942.png",
+        "question": "Is there a big block made of the same material as the yellow object or are there any large cubes in front of the large metallic thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a big block made of the same material as the yellow object in front of the large metallic thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004075.png",
+        "question": "Are there fewer tiny brown metallic cylinders than blue rubber balls or is the material of the cylinder that is behind the cyan cylinder the same as the brown thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are fewer tiny brown metallic cylinders than blue rubber balls.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004242.png",
+        "question": "Is there any other thing that is the same size as the red matte cube or are there any cyan things that have the same size as the red block?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are no cyan things that have the same size as the red block.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004288.png",
+        "question": "There is a rubber object that is behind the yellow metal cube; is its size the same as the large green matte thing or is the number of big red cubes that are behind the large red cube less than the number of large yellow blocks in front of the yellow matte object?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "the number of big red cubes that are behind the large red cube is less than the number of large yellow blocks in front of the yellow matte object",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004327.png",
+        "question": "There is a big sphere left of the yellow ball; is there a rubber sphere left of it or is the number of tiny cubes less than the number of yellow matte spheres?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "number of tiny cubes less than the number of yellow matte spheres",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004340.png",
+        "question": "There is a tiny cyan thing that is in front of the rubber sphere; is its shape the same as the tiny object that is to the right of the cyan metal ball or is there a yellow object that has the same size as the cyan matte thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a yellow object that has the same size as the cyan matte thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004375.png",
+        "question": "Is there anything else that is the same size as the gray matte cylinder or is the number of tiny red objects in front of the small cyan object greater than the number of tiny gray metal cylinders?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The number of tiny red objects in front of the small cyan object is greater than the number of tiny gray metal cylinders.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004401.png",
+        "question": "There is a matte object on the right side of the purple rubber thing; is it the same shape as the large object that is behind the blue thing or are the big thing that is on the right side of the big cyan metal cylinder and the big cyan object made of the same material?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The matte object on the right side of the purple rubber thing is not the same shape as the large object that is behind the blue thing. The large object behind the blue thing is a cylinder, while the matte object on the right side of the purple rubber thing is a sphere.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004411.png",
+        "question": "There is a matte thing that is right of the small purple ball; is its color the same as the small sphere on the right side of the brown matte thing or are there any big yellow matte objects of the same shape as the purple metallic object?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are no big yellow matte objects of the same shape as the purple metallic object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004433.png",
+        "question": "Is the number of big gray metallic things less than the number of small cylinders or is the number of big purple metallic cylinders that are in front of the green rubber object greater than the number of large rubber things that are in front of the tiny yellow metal cylinder?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of big purple metallic cylinders that are in front of the green rubber object is greater than the number of large rubber things that are in front of the tiny yellow metal cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004444.png",
+        "question": "Is there a big brown thing made of the same material as the small cylinder or is the number of large matte things on the left side of the yellow rubber object the same as the number of big gray shiny things?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is a big brown thing made of the same material as the small cylinder, and the number of large matte things on the left side of the yellow rubber object is the same as the number of big gray shiny things.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004525.png",
+        "question": "Does the tiny metal thing have the same shape as the shiny thing in front of the matte object or is there a metallic sphere that has the same size as the green matte object?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a metallic sphere that has the same size as the green matte object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004530.png",
+        "question": "Is the number of large cylinders that are in front of the cyan thing less than the number of small red matte things or are there fewer big cyan rubber cylinders behind the cyan rubber cylinder than big gray metallic cylinders that are on the left side of the big metallic cylinder?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "are there fewer big cyan rubber cylinders behind the cyan rubber cylinder than big gray metallic cylinders that are on the left side of the big metallic cylinder",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004542.png",
+        "question": "Is there anything else that is the same shape as the yellow matte object or there is a metal cube left of the rubber cube; is its size the same as the tiny cyan cube?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there is a metal cube left of the rubber cube, and its size is the same as the tiny cyan cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004543.png",
+        "question": "There is a small ball that is right of the green matte sphere; does it have the same color as the big rubber ball on the right side of the small cyan metal thing or is there any other thing that has the same material as the tiny cyan object?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a small ball that is right of the green matte sphere, and it has the same color as the big rubber ball on the right side of the small cyan metal thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004566.png",
+        "question": "Are there more small gray metal balls that are behind the cyan sphere than tiny cyan balls or is the tiny gray ball made of the same material as the big object?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are more small gray metal balls that are behind the cyan sphere than tiny cyan balls.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004697.png",
+        "question": "Do the tiny thing that is right of the large blue shiny ball and the big matte ball have the same color or does the big rubber ball have the same color as the small shiny sphere?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The big rubber ball has the same color as the small shiny sphere.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004724.png",
+        "question": "Are there fewer tiny matte blocks to the right of the red rubber object than green rubber blocks or is there any other thing that is the same shape as the tiny object?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer tiny matte blocks to the right of the red rubber object than green rubber blocks.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004752.png",
+        "question": "Are there any other cubes of the same size as the yellow rubber block or are there more green rubber things behind the large yellow rubber object than big cyan rubber blocks?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are more green rubber things behind the large yellow rubber object than big cyan rubber blocks.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004800.png",
+        "question": "Is there any other thing of the same color as the small cylinder or there is a shiny thing that is in front of the red rubber cylinder; is it the same color as the big cylinder that is on the right side of the big red shiny cylinder?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there is a shiny thing that is in front of the red rubber cylinder, and it is the same color as the big cylinder that is on the right side of the big red shiny cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004831.png",
+        "question": "Are there any other things that have the same material as the tiny cyan object or do the cyan object and the large object have the same shape?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there are other things that have the same material as the tiny cyan object. The tiny cyan object and the large object have the same shape.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004836.png",
+        "question": "Are there any other metal cylinders that have the same color as the tiny cylinder or there is a small metal thing; does it have the same color as the big object that is left of the large brown shiny cylinder?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there are other metal cylinders that have the same color as the tiny cylinder, and there is a small metal thing that has the same color as the big object that is left of the large brown shiny cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004838.png",
+        "question": "Is there another large block of the same color as the rubber cube or is the shape of the shiny thing left of the large cyan block the same as the object that is right of the cyan thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The shape of the shiny thing left of the large cyan block is the same as the object that is right of the cyan thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004856.png",
+        "question": "Do the small rubber ball and the tiny shiny sphere have the same color or are there fewer big brown balls that are right of the rubber object than yellow rubber spheres on the right side of the yellow shiny ball?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer big brown balls that are right of the rubber object than yellow rubber spheres on the right side of the yellow shiny ball.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004861.png",
+        "question": "Is there anything else that has the same color as the small matte thing or does the large cyan metal object have the same shape as the small rubber object?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The large cyan metal object has the same shape as the small rubber object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004913.png",
+        "question": "Is there anything else that has the same size as the cyan thing or is the color of the big rubber cube that is in front of the big purple rubber thing the same as the small block?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The color of the big rubber cube that is in front of the big purple rubber thing is the same as the small block.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004921.png",
+        "question": "Is there another red shiny object of the same shape as the big red metallic thing or are there any large things that are in front of the small object in front of the small cube behind the big red metallic thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is another red shiny object of the same shape as the big red metallic thing in front of the small object behind the big red metallic thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004936.png",
+        "question": "Does the rubber cylinder that is on the right side of the large red cylinder have the same color as the large cylinder left of the tiny red metal object or is there a red thing on the right side of the red rubber cylinder that is in front of the red thing behind the small red metallic object?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a red thing on the right side of the red rubber cylinder that is in front of the red thing behind the small red metallic object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_004966.png",
+        "question": "Is there a small green shiny cylinder that is on the left side of the metallic cylinder in front of the cylinder on the left side of the tiny red thing or do the tiny brown object and the thing that is in front of the small brown metal cylinder have the same shape?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a small green shiny cylinder that is on the left side of the metallic cylinder in front of the cylinder on the left side of the tiny red object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_005036.png",
+        "question": "Are there any other things that are the same size as the yellow matte cylinder or does the tiny red thing have the same material as the tiny cylinder that is in front of the green matte object?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are other things that are the same size as the yellow matte cylinder, but the tiny red thing does not have the same material as the tiny cylinder that is in front of the green matte object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_005106.png",
+        "question": "Does the thing that is to the left of the purple rubber ball have the same size as the cyan matte sphere or is there any other thing that is the same size as the purple matte sphere?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The thing that is to the left of the purple rubber ball has the same size as the cyan matte sphere.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_005119.png",
+        "question": "Are there any other red objects of the same shape as the big thing or is the number of big red cylinders less than the number of large balls?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are no other red objects of the same shape as the big thing. The number of big red cylinders is less than the number of large balls.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_005189.png",
+        "question": "Is there a green matte cylinder or are there fewer large cyan metal balls than large objects?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "there is a green matte cylinder",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_005283.png",
+        "question": "Is the small cyan cylinder made of the same material as the small red cylinder or do the thing to the right of the small red thing and the tiny cylinder that is in front of the cyan metal thing have the same material?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The small cyan cylinder is made of a different material than the small red cylinder and the tiny cylinder that is in front of the cyan metal thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_005350.png",
+        "question": "There is a thing behind the yellow block; is it the same size as the small yellow block or is there another big thing of the same color as the big shiny thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is another big thing of the same color as the big shiny thing behind the yellow block.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_005361.png",
+        "question": "There is a object that is behind the gray rubber block; does it have the same size as the gray object that is on the right side of the tiny gray block or are there any big gray metallic blocks?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The object behind the gray rubber block is not the same size as the gray object that is on the right side of the tiny gray block. The object behind the gray rubber block is larger than the gray object on the right side of the tiny gray block.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_005425.png",
+        "question": "Is the tiny metallic cylinder the same color as the big shiny object or is the shape of the matte object that is behind the large purple rubber cylinder the same as the blue thing that is on the left side of the large cyan rubber thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The tiny metallic cylinder is not the same color as the big shiny object, but the shape of the matte object that is behind the large purple rubber cylinder is the same as the blue thing that is on the left side of the large cyan rubber thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_005466.png",
+        "question": "Is there anything else that is the same size as the shiny sphere or is there anything else that is the same material as the big ball?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "No, there is nothing else that is the same size as the shiny sphere or the same material as the big ball.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_005478.png",
+        "question": "Is the number of large green things less than the number of rubber cylinders or do the large purple object and the cylinder that is on the left side of the red thing have the same material?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "the large purple object and the cylinder that is on the left side of the red thing have the same material",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_005545.png",
+        "question": "Are there any large cyan metal objects or there is a red thing that is on the right side of the small red matte thing; is there a cyan shiny object in front of it?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there is a large cyan metal object in front of the small red matte thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_005596.png",
+        "question": "Are there any big yellow metal blocks that are in front of the big yellow thing that is behind the yellow rubber cube that is in front of the brown rubber object or are there fewer small green objects that are on the right side of the small metallic block than yellow metallic blocks?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer small green objects that are on the right side of the small metallic block than yellow metallic blocks.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_005739.png",
+        "question": "Are there any spheres behind the shiny object or there is a large sphere that is right of the big purple matte sphere; is its color the same as the metal object?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a large sphere that is right of the big purple matte sphere, and its color is the same as the metal object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_005774.png",
+        "question": "There is a small thing; is its color the same as the large cylinder to the right of the purple thing or there is a large shiny thing that is in front of the big object behind the purple thing; is there a tiny purple shiny cylinder that is in front of it?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "Yes, there is a tiny purple shiny cylinder that is in front of the large shiny object behind it.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_005778.png",
+        "question": "Is the number of cyan rubber things right of the tiny red matte cylinder the same as the number of large rubber cylinders or are there any other things that have the same color as the big object?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of cyan rubber things right of the tiny red matte cylinder is the same as the number of large rubber cylinders.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_005997.png",
+        "question": "Is there another large brown thing that has the same shape as the big object or is the yellow matte object the same size as the red matte thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The yellow matte object is the same size as the red matte object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006004.png",
+        "question": "Is the number of things greater than the number of purple shiny cubes or is there any other thing that has the same shape as the tiny yellow thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "number of things is greater than the number of purple shiny cubes",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006025.png",
+        "question": "Is there anything else that is the same size as the yellow metallic sphere or is the shape of the blue shiny thing the same as the yellow object?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The blue shiny object is the same size as the yellow metallic sphere.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006127.png",
+        "question": "Are there any other things that are the same material as the big gray cylinder or are there any tiny gray matte cylinders?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "No, there are no other things that are the same material as the big gray cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006152.png",
+        "question": "Is there any other thing that has the same material as the small blue object or is there anything else that has the same size as the metallic cylinder?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "No, there is no other object that has the same material as the small blue object or the metallic cylinder. The small blue object is made of plastic, while the metallic cylinder is made of metal.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006192.png",
+        "question": "There is a blue matte object; does it have the same size as the object left of the matte thing or is the number of big green rubber cubes greater than the number of balls?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "number of big green rubber cubes greater than the number of balls",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006227.png",
+        "question": "Is the yellow object the same shape as the gray matte object or are there the same number of metal cubes that are left of the small metallic thing and small rubber objects that are right of the yellow object?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are the same number of metal cubes that are left of the small metallic thing and small rubber objects that are right of the yellow object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006300.png",
+        "question": "Are there fewer brown matte things left of the large brown block than brown objects or are there fewer small yellow matte things than tiny yellow metallic balls?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "there are fewer small yellow matte things than tiny yellow metallic balls",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006351.png",
+        "question": "Are there any other things that have the same color as the large metal sphere or do the cyan shiny thing and the brown metallic object have the same size?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "No, the cyan shiny thing and the brown metallic object do not have the same size. The cyan shiny thing is smaller than the brown metallic object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006367.png",
+        "question": "Are there fewer things that are behind the big green block than blocks or there is a big metal thing; are there any matte objects in front of it?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "are there fewer things that are behind the big green block than blocks or is there a big metal thing in front of it? there are fewer things that are behind the big green block than blocks",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006482.png",
+        "question": "There is a cylinder that is on the left side of the large blue metal object; does it have the same color as the big shiny cylinder that is behind the matte cylinder or is the number of large cylinders that are left of the blue metal cylinder greater than the number of cyan cylinders on the left side of the cyan object?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "the number of large cylinders that are left of the blue metal cylinder is greater than the number of cyan cylinders on the left side of the cyan object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006491.png",
+        "question": "Are there any other big yellow shiny things of the same shape as the yellow thing or are there more brown metal cylinders that are in front of the small brown metal cylinder than yellow things to the left of the small brown matte cylinder?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are more brown metal cylinders that are in front of the small brown metal cylinder than yellow things to the left of the small brown matte cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006499.png",
+        "question": "Does the red object have the same size as the blue matte object or there is a rubber cube that is to the left of the small cyan block; are there any big cubes on the left side of it?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "there is a rubber cube that is to the left of the small cyan block.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006681.png",
+        "question": "Is there any other thing of the same color as the large matte thing or is the number of large blue objects that are to the right of the small blue rubber cylinder less than the number of large red cylinders that are left of the green metallic cylinder?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of large blue objects that are to the right of the small blue rubber cylinder is less than the number of large red cylinders that are left of the green metallic cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006737.png",
+        "question": "There is a metallic thing in front of the big cube; is its color the same as the small block left of the tiny metal cube or are there fewer tiny green rubber objects than brown matte cubes?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are fewer tiny green rubber objects than brown matte cubes.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006754.png",
+        "question": "Is the number of red rubber things that are left of the large shiny ball less than the number of brown things to the left of the matte thing or does the shiny object that is on the left side of the small brown metal thing have the same shape as the shiny object that is in front of the large ball?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of red rubber things that are left of the large shiny ball is less than the number of brown things to the left of the matte thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006772.png",
+        "question": "There is a blue object on the left side of the green object; does it have the same size as the big green ball or is the color of the large shiny sphere that is left of the green thing the same as the big sphere that is to the right of the large matte thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The color of the large shiny sphere that is left of the green thing is the same as the big sphere that is to the right of the large matte thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006817.png",
+        "question": "Are there any other green objects that have the same material as the large thing or do the rubber cube that is to the left of the big green rubber cube and the matte thing to the right of the green matte thing have the same size?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, the rubber cube that is to the left of the big green rubber cube and the matte thing to the right of the green matte thing have the same size.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006835.png",
+        "question": "Are there any tiny cubes that have the same material as the big red thing or there is a object to the right of the small rubber cube; is its color the same as the rubber thing?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there are tiny cubes that have the same material as the big red thing, and there is an object to the right of the small rubber cube that has the same color as the rubber thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006939.png",
+        "question": "Are there any other things that are made of the same material as the large red block or is there a brown block of the same size as the green object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "No, there are no other things that are made of the same material as the large red block or a brown block of the same size as the green object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006959.png",
+        "question": "Is there a red rubber thing that has the same size as the purple metallic block or are there fewer tiny red rubber things that are behind the tiny block than small red cubes to the left of the large purple shiny cube?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer tiny red rubber things that are behind the tiny block than small red cubes to the left of the large purple shiny cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_006994.png",
+        "question": "Are there any cyan cylinders that have the same size as the purple thing or is the size of the thing behind the purple metallic thing the same as the big purple metallic thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are no cyan cylinders that have the same size as the purple thing. The size of the thing behind the purple metallic thing is different from the big purple metallic thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007031.png",
+        "question": "Does the large purple thing have the same material as the purple thing that is to the left of the red shiny thing or is the number of shiny blocks that are in front of the tiny purple matte object greater than the number of purple cubes that are in front of the purple metal cube?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The large purple thing does not have the same material as the purple thing that is to the left of the red shiny thing. The number of shiny blocks that are in front of the tiny purple matte object is greater than the number of purple cubes that are in front of the purple metal cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007059.png",
+        "question": "Is there anything else that is the same size as the yellow metal thing or is the material of the small yellow cube the same as the object to the right of the blue matte block?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The material of the small yellow cube is the same as the object to the right of the blue matte block.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007109.png",
+        "question": "Are there any brown objects that have the same material as the cyan object or does the thing that is to the right of the purple matte object have the same shape as the cyan thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are no brown objects that have the same material as the cyan object. The object to the right of the purple matte object has the same shape as the cyan object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007176.png",
+        "question": "Is the color of the ball behind the tiny metal sphere the same as the large thing that is to the left of the red shiny thing or are there any large red shiny objects that have the same shape as the large matte thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The color of the ball behind the tiny metal sphere is not the same as the large thing that is to the left of the red shiny thing. There are no large red shiny objects that have the same shape as the large matte thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007195.png",
+        "question": "Are there any blue metallic objects that have the same size as the gray metallic object or there is a blue object; is its size the same as the shiny object that is in front of the gray cube?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there is a blue metallic object that has the same size as the gray metallic object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007245.png",
+        "question": "There is a green metallic object; is its size the same as the green thing that is in front of the cyan matte object or is the cyan object the same size as the green shiny object?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The cyan object is the same size as the green shiny object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007250.png",
+        "question": "There is a metal object in front of the gray cube; is it the same size as the purple shiny thing behind the gray cube or there is a large matte block; is it the same color as the big block that is on the left side of the yellow rubber thing?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "it is the same size as the purple shiny thing behind the gray cube",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007267.png",
+        "question": "There is a big object in front of the tiny red metal object; is there a gray block to the right of it or are the red thing that is to the left of the brown metallic object and the brown object made of the same material?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a gray block to the right of the red metal object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007268.png",
+        "question": "Do the large cylinder that is to the left of the cyan cylinder and the cylinder that is in front of the cyan object have the same material or there is a brown object on the left side of the tiny cyan rubber object; is its shape the same as the object that is on the right side of the tiny brown rubber cylinder?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, the large cylinder that is to the left of the cyan cylinder and the cylinder that is in front of the cyan object have the same material.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007308.png",
+        "question": "Is there any other thing that has the same size as the metallic thing or does the large cube left of the big green thing have the same material as the thing on the right side of the green rubber object?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The large cube left of the big green thing has the same material as the thing on the right side of the green rubber object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007309.png",
+        "question": "Are there an equal number of blue cubes that are behind the blue cube and small rubber things in front of the large rubber object or is there anything else that has the same color as the large matte object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are an equal number of blue cubes that are behind the blue cube and small rubber things in front of the large rubber object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007339.png",
+        "question": "There is a red thing; does it have the same size as the cylinder in front of the gray metallic cylinder or are there an equal number of large metal things that are in front of the gray shiny cylinder and large red metallic cylinders behind the big red shiny cylinder?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are an equal number of large metal things that are in front of the gray shiny cylinder and large red metallic cylinders behind the big red shiny cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007397.png",
+        "question": "Do the blue matte thing and the gray matte block have the same size or is there another rubber thing that has the same size as the blue matte object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is another rubber thing that has the same size as the blue matte object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007462.png",
+        "question": "Is there any other thing that is the same size as the purple object or there is a rubber cylinder behind the purple cylinder; are there any large purple cylinders left of it?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "no",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007472.png",
+        "question": "Is there any other thing that is the same size as the yellow thing or does the yellow cylinder have the same size as the blue object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The yellow cylinder has the same size as the blue object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007554.png",
+        "question": "Does the thing right of the brown matte cylinder have the same size as the tiny rubber cylinder or are the large purple thing and the cylinder in front of the large matte cylinder made of the same material?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The large purple thing and the cylinder in front of the large matte cylinder are made of the same material.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007633.png",
+        "question": "There is a large rubber ball; does it have the same color as the object that is behind the big purple shiny ball or is there a green sphere made of the same material as the large blue object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The large rubber ball does not have the same color as the object that is behind the big purple shiny ball. There is a green sphere made of the same material as the large blue object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007646.png",
+        "question": "Do the large object in front of the big cyan object and the small metallic thing that is to the right of the cyan block have the same color or are there the same number of large gray metal objects in front of the large gray metallic thing and tiny gray matte objects?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are the same number of large gray metal objects in front of the large gray metallic thing and tiny gray matte objects.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007717.png",
+        "question": "Is there anything else that has the same material as the large green thing or are there any small rubber balls behind the shiny thing in front of the small blue rubber ball?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are no small rubber balls behind the shiny thing in front of the small blue rubber ball.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007815.png",
+        "question": "There is a blue sphere; does it have the same size as the metal object that is right of the tiny blue metal object or are there fewer spheres that are in front of the large shiny sphere than metal spheres that are behind the purple metal sphere?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer spheres that are in front of the large shiny sphere than metal spheres that are behind the purple metal sphere.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007960.png",
+        "question": "There is a metallic cube on the right side of the large blue thing; does it have the same size as the gray thing that is in front of the large blue object or are there fewer blue rubber cubes that are behind the large blue block than metallic things?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer blue rubber cubes behind the large blue block than metallic things.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_007999.png",
+        "question": "Is there a rubber object that is on the right side of the blue ball that is left of the small thing or is there anything else that is the same material as the large gray object?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a rubber object that is on the right side of the blue ball that is left of the small thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008015.png",
+        "question": "Are there more large brown matte cylinders than small matte cylinders or do the brown thing and the green cylinder that is left of the gray matte cylinder have the same material?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are more large brown matte cylinders than small matte cylinders.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008052.png",
+        "question": "Is the number of brown objects greater than the number of metal cubes or there is a big thing in front of the large object that is to the left of the large rubber object; are there any blue matte spheres that are in front of it?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, the number of brown objects is greater than the number of metal cubes, and there is a big thing in front of the large object that is to the left of the large rubber object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008224.png",
+        "question": "Is the number of blue rubber balls greater than the number of metal spheres or does the brown ball have the same material as the big green sphere?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "number of blue rubber balls greater than the number of metal spheres",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008251.png",
+        "question": "Is there anything else that has the same material as the small thing or do the ball in front of the red thing and the red sphere have the same size?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The small thing and the ball in front of the red thing do not have the same size. The small thing is smaller than the ball in front of the red thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008300.png",
+        "question": "Are there any small brown rubber cylinders left of the cylinder to the left of the brown cylinder to the left of the rubber thing or is there another tiny cylinder that has the same color as the small cylinder?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is another tiny cylinder that has the same color as the small cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008396.png",
+        "question": "Is the material of the large gray cylinder the same as the thing on the right side of the gray thing or is there any other thing that is the same shape as the large purple matte thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The material of the large gray cylinder is not the same as the thing on the right side of the gray thing. There is another object that is the same shape as the large purple matte thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008430.png",
+        "question": "There is a shiny block that is in front of the small cyan object; does it have the same size as the cyan block on the right side of the large brown cube or are there an equal number of small cubes on the left side of the big block and big brown cubes?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are an equal number of small cubes on the left side of the big block and big brown cubes.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008436.png",
+        "question": "Is the material of the cylinder that is behind the tiny metallic cylinder the same as the small blue cylinder or are there fewer small shiny cylinders that are behind the small blue metallic cylinder than large cyan matte objects on the right side of the large yellow object?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer small shiny cylinders that are behind the small blue metallic cylinder than large cyan matte objects on the right side of the large yellow object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008459.png",
+        "question": "There is a big matte object right of the yellow matte cylinder that is behind the tiny brown cylinder; is there a yellow rubber thing that is right of it or is there anything else that is the same material as the brown thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is a yellow rubber thing that is right of the yellow matte cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008488.png",
+        "question": "Is there anything else that has the same size as the green object or there is a large thing that is to the left of the small metallic thing; is it the same shape as the green thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there is a large thing that is to the left of the small metallic thing, and it is the same shape as the green object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008496.png",
+        "question": "Are there any other green metallic balls that have the same size as the green metallic sphere or there is a small ball left of the red object; is its color the same as the metallic thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there are other green metallic balls that have the same size as the green metallic sphere, and there is a small ball left of the red object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008517.png",
+        "question": "Are there any other things that are made of the same material as the red cube or are there more big green matte cylinders than tiny red cubes?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are more big green matte cylinders than tiny red cubes.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008535.png",
+        "question": "Is the number of small gray things to the right of the tiny blue object less than the number of small gray matte cylinders or is the color of the small metallic object the same as the tiny thing on the right side of the blue cylinder?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of small gray things to the right of the tiny blue object is less than the number of small gray matte cylinders.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008540.png",
+        "question": "There is a sphere to the left of the tiny yellow rubber thing; is there a yellow rubber object left of it or is the size of the object that is behind the large object the same as the blue ball that is to the left of the small yellow rubber object?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The size of the object that is behind the large object is the same as the blue ball that is to the left of the small yellow rubber object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008587.png",
+        "question": "There is a large rubber sphere; is its color the same as the metal object on the left side of the tiny gray thing or is the size of the gray metal ball the same as the shiny object to the left of the small gray shiny object?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The size of the gray metal ball is the same as the shiny object to the left of the small gray shiny object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008601.png",
+        "question": "Are there any other things that are made of the same material as the large cyan cylinder or there is a matte cylinder on the right side of the purple matte thing; is there a cylinder that is right of it?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "yes",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008642.png",
+        "question": "Is there any other thing that has the same size as the red metallic sphere or is there another small cyan object that has the same shape as the small metallic thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is another small cyan object that has the same shape as the small metallic thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008680.png",
+        "question": "There is a large rubber cylinder that is left of the big green cylinder; are there any big cyan things that are on the left side of it or is the material of the cylinder behind the big green cylinder the same as the big cylinder on the right side of the metallic thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "the material of the cylinder behind the big green cylinder is the same as the big cylinder on the right side of the metallic thing",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008697.png",
+        "question": "There is a tiny red matte thing that is on the left side of the big blue rubber thing; is its shape the same as the tiny blue object or is there another red matte object of the same size as the red rubber object?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "is its shape the same as the tiny blue object or is there another red matte object of the same size as the red rubber object? is its shape the same as the tiny blue object or is there another red matte object of the same size as the red rubber object? is its shape the same as the tiny blue object or is there another red matte object of the same size as the red rubber object? is its shape the same as the tiny blue object or is there another red matte object of the same size as the red rubber object? is its shape the same as the tiny blue object or is there another red matte object of the same size as the red rubber object? is its shape the same as the tiny blue object or is there another red matte object of the same size as the red rubber object? is its shape the same as the tiny blue object or is there another red matte object of the same size as the red rubber object? is its shape the same as the tiny blue object or is there another red matte object of the same size as the red rubber object? is its shape the same as the tiny blue object or is there another red matte object of the same size as",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008771.png",
+        "question": "Is there anything else that has the same material as the red thing or there is a rubber block in front of the matte thing that is on the right side of the big gray rubber object; is there a red cube that is on the left side of it?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "Yes, there is a red cube that is on the left side of the big gray rubber object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008786.png",
+        "question": "Is there any other thing that has the same color as the rubber object or is there anything else that has the same material as the big yellow thing?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "No, there is no other object that has the same color as the rubber object or the same material as the big yellow thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008833.png",
+        "question": "Are there any other things that have the same color as the small rubber object or there is a metal cube that is behind the red metal block; does it have the same color as the small matte block?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "Yes, there are other things that have the same color as the small rubber object. There is a metal cube that is behind the red metal block, and it also has the same color as the small rubber object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008841.png",
+        "question": "Does the gray object to the left of the brown metallic object have the same shape as the big brown metallic object that is behind the green object or are any tiny blue metallic spheres visible?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The gray object to the left of the brown metallic object does not have the same shape as the big brown metallic object that is behind the green object. There are no tiny blue metallic spheres visible in the image.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008898.png",
+        "question": "Does the gray object have the same shape as the tiny yellow metallic object or are there any big yellow spheres made of the same material as the small yellow thing?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are no big yellow spheres made of the same material as the small yellow thing. The gray object has a different shape than the tiny yellow metallic object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_008901.png",
+        "question": "Is there a green cube made of the same material as the small blue thing or are there more tiny green things left of the green matte thing than green metallic blocks in front of the small blue block?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are more tiny green things left of the green matte thing than green metallic blocks in front of the small blue block.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_009034.png",
+        "question": "Is the number of brown shiny spheres right of the green metal object less than the number of metallic balls that are in front of the big red metal ball or are there any small spheres that are in front of the metal ball that is in front of the large sphere that is in front of the big red shiny ball?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of brown shiny spheres right of the green metal object is less than the number of metallic balls that are in front of the big red metal ball. There are no small spheres that are in front of the metal ball that is in front of the large sphere that is in front of the big red shiny ball.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_009258.png",
+        "question": "Are there any other things that are the same size as the green metal block or is there a small purple rubber thing behind the small object in front of the small purple block?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a small purple rubber thing behind the small object in front of the small purple block.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_009318.png",
+        "question": "Is there any other thing that is made of the same material as the purple ball or are the gray ball and the thing behind the big gray metallic sphere made of the same material?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The gray ball and the thing behind the big gray metallic sphere are not made of the same material. The purple ball is made of the same material as the thing behind the big gray metallic sphere.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_009337.png",
+        "question": "There is a metal object right of the small yellow thing; is its shape the same as the blue thing or is the number of large blue metal objects less than the number of green shiny things?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "the number of large blue metal objects is less than the number of green shiny things",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_009527.png",
+        "question": "Is the size of the metal thing behind the large metallic block the same as the matte block to the right of the tiny shiny cube or is there anything else that is the same size as the cyan object?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The size of the metal thing behind the large metallic block is the same as the matte block to the right of the tiny shiny cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_009583.png",
+        "question": "Is the material of the big object that is in front of the large yellow thing the same as the big cube that is behind the red cube or is there anything else that has the same size as the gray block?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The material of the big object that is in front of the large yellow thing is the same as the big cube that is behind the red cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_009783.png",
+        "question": "Is there a purple thing of the same shape as the tiny green shiny thing or is the size of the matte thing to the left of the big purple thing the same as the cylinder that is in front of the small green metal object?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The size of the matte thing to the left of the big purple thing is the same as the cylinder that is in front of the small green metal object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_009808.png",
+        "question": "Does the metal object that is on the right side of the gray object have the same color as the shiny object that is left of the gray metal cylinder or are there any other large gray metal objects of the same shape as the gray thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The metal object that is on the right side of the gray object has the same color as the shiny object that is left of the gray metal cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_009858.png",
+        "question": "Are there any other things that have the same size as the green metal cylinder or there is a tiny metallic cylinder that is behind the blue cylinder; is its color the same as the big metallic cylinder?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there is a tiny metallic cylinder that is behind the blue cylinder, and its color is the same as the big metallic cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_009905.png",
+        "question": "Is there any other thing that has the same material as the blue object or is the shape of the large metallic object that is in front of the small red sphere the same as  the big red object?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "No, the shape of the large metallic object that is in front of the small red sphere is different from the shape of the big red object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_009932.png",
+        "question": "Is the size of the cyan ball the same as the red matte ball or there is a large matte ball that is on the right side of the big thing that is to the left of the red sphere; are there any big objects that are behind it?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a large matte ball that is on the right side of the big thing that is to the left of the red sphere, and there are no big objects behind it.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010009.png",
+        "question": "There is a small rubber cube; is its color the same as the shiny cube right of the small gray thing or are there any other purple rubber things that have the same size as the purple matte thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are no other purple rubber things that have the same size as the purple matte thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010022.png",
+        "question": "There is a rubber object that is on the left side of the red rubber object; is its color the same as the metal cube or there is a block in front of the matte object that is to the right of the tiny rubber object; are there any tiny matte things that are left of it?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "yes",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010036.png",
+        "question": "Is the material of the big cube that is on the left side of the gray cube the same as the big cube that is in front of the large blue rubber object or there is a thing right of the large gray matte object; does it have the same shape as the big matte thing that is left of the big gray rubber cube?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The material of the big cube that is on the left side of the gray cube is different from the big cube that is in front of the large blue rubber object, and it does not have the same shape as the big matte thing that is left of the big gray rubber cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010057.png",
+        "question": "Is there any other thing that has the same size as the blue rubber object or does the rubber object have the same shape as the yellow metal object?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The blue rubber object has the same size as the yellow metal object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010199.png",
+        "question": "Is the number of tiny brown metal cylinders that are behind the brown metal object greater than the number of big red metallic cubes or is there any other thing that has the same color as the metal object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The number of tiny brown metal cylinders that are behind the brown metal object is greater than the number of big red metallic cubes.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010316.png",
+        "question": "Is the number of green things in front of the green thing the same as the number of large cyan cylinders that are in front of the small purple cylinder or are there an equal number of big cylinders left of the large cyan cylinder and green things?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are an equal number of big cylinders left of the large cyan cylinder and green things.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010352.png",
+        "question": "Do the tiny sphere that is in front of the cyan thing and the big matte sphere have the same color or are there the same number of green balls that are on the right side of the small green object and big purple matte spheres?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are the same number of green balls that are on the right side of the small green object and big purple matte spheres.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010384.png",
+        "question": "There is a small brown thing to the right of the large blue metal sphere; is its shape the same as the large object that is behind the big blue object or is the material of the sphere left of the brown metal ball the same as the small brown sphere?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The material of the small brown sphere is not the same as the material of the large blue metal sphere. The small brown sphere is made of a different material than the large blue metal sphere.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010397.png",
+        "question": "There is a cyan matte sphere; is it the same size as the rubber thing that is right of the tiny purple sphere or there is a big matte thing behind the cyan matte object; is its shape the same as the matte object that is left of the tiny purple rubber thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "no",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010434.png",
+        "question": "Is the number of small purple cubes that are in front of the tiny metal thing less than the number of tiny purple things or there is a brown metal object; is it the same size as the cube in front of the tiny purple metal cube?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of small purple cubes that are in front of the tiny metal thing is less than the number of tiny purple things.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010440.png",
+        "question": "Is there any other thing that is the same material as the large purple thing or are any small blue things visible?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "No, there is no other thing that is the same material as the large purple thing, and no small blue things are visible.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010461.png",
+        "question": "Do the thing that is right of the brown rubber thing and the cylinder behind the large red shiny object have the same color or there is a matte cylinder that is behind the red metal cylinder; is it the same size as the tiny blue matte object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The thing that is right of the brown rubber thing and the cylinder behind the large red shiny object is the same size as the tiny blue matte object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010537.png",
+        "question": "Does the tiny shiny sphere have the same color as the matte object or is the number of big metallic spheres greater than the number of cyan metal cylinders?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The tiny shiny sphere has the same color as the matte object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010550.png",
+        "question": "Is there another large cyan rubber object of the same shape as the big cyan thing or is the number of purple cubes that are behind the large cyan matte cube the same as the number of tiny blocks?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is another large cyan rubber object of the same shape as the big cyan thing. The number of purple cubes that are behind the large cyan matte cube is the same as the number of tiny blocks.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010592.png",
+        "question": "Are the large green object and the large cyan cylinder made of the same material or are there an equal number of rubber things that are left of the large rubber thing and green metal cylinders in front of the large metallic thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are an equal number of rubber things that are left of the large rubber thing and green metal cylinders in front of the large metallic thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010716.png",
+        "question": "Are there any other things that have the same size as the yellow shiny cylinder or are there the same number of purple cylinders that are to the right of the tiny purple metallic cylinder and cylinders to the right of the yellow object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "Yes, there are other things that have the same size as the yellow shiny cylinder, and there are the same number of purple cylinders that are to the right of the tiny purple metallic cylinder and cylinders to the right of the yellow object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010740.png",
+        "question": "Are there any other things that have the same material as the large red object or are there any matte cubes that have the same size as the red matte object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "No, there are no other things that have the same material as the large red object or have the same size as the red matte object in the image.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010749.png",
+        "question": "Are the blue thing left of the big blue metallic sphere and the cyan sphere made of the same material or are there fewer big cyan matte balls in front of the big yellow metal object than yellow metal objects that are behind the green metal thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer big cyan matte balls in front of the big yellow metal object than yellow metal objects that are behind the green metal thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010842.png",
+        "question": "There is a green shiny thing; does it have the same size as the shiny block in front of the green metal cube or is the number of blue shiny blocks that are right of the small purple matte block greater than the number of big blue cubes that are to the right of the big blue shiny cube?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "the number of blue shiny blocks that are right of the small purple matte block is greater than the number of big blue cubes that are to the right of the big blue shiny cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010862.png",
+        "question": "Are the purple sphere and the small brown thing made of the same material or is the number of small purple metallic things that are behind the big metallic ball the same as the number of big shiny spheres?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The purple sphere and the small brown thing are made of the same material, while the number of small purple metallic things that are behind the big metallic ball is different from the number of big shiny spheres.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010901.png",
+        "question": "Is the thing that is left of the gray metallic object made of the same material as the small gray object or there is a matte object that is to the right of the red matte object; does it have the same color as the metal cylinder that is behind the tiny metal object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The thing that is left of the gray metallic object is made of the same material as the small gray object, and it has the same color as the metal cylinder that is behind the tiny metal object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010923.png",
+        "question": "Are there more small shiny cylinders that are right of the small cyan cylinder than small cylinders behind the large green cylinder or there is a big cylinder in front of the green object; is there a cyan shiny cylinder behind it?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are more small shiny cylinders that are right of the small cyan cylinder than small cylinders behind the large green cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010992.png",
+        "question": "Is there a purple rubber thing of the same size as the cyan shiny thing or are the tiny red object and the small sphere that is to the right of the blue metallic sphere made of the same material?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is a purple rubber thing of the same size as the cyan shiny thing. The tiny red object and the small sphere that is to the right of the blue metallic sphere are not made of the same material.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_010998.png",
+        "question": "Is there any other thing that is the same size as the green matte thing or is the number of small green things less than the number of cyan rubber balls?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "number of small green things less than the number of cyan rubber balls",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_011060.png",
+        "question": "Are there fewer blue spheres that are in front of the large blue sphere than large yellow metallic spheres or there is a blue sphere that is in front of the large blue metallic sphere; is its size the same as the purple object that is in front of the small yellow metal object?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there are fewer blue spheres that are in front of the large blue sphere than large yellow metallic spheres, and the size of the blue sphere is the same as the purple object that is in front of the small yellow metal object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_011134.png",
+        "question": "Is there a tiny cylinder that has the same color as the metallic thing or are there an equal number of metallic cylinders on the left side of the metallic cylinder and metal things?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are an equal number of metallic cylinders on the left side of the metallic cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_011138.png",
+        "question": "Is the number of small yellow things that are in front of the tiny brown thing greater than the number of small brown cubes on the right side of the big rubber cube or are there any other things that are the same shape as the tiny metallic thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of small yellow things that are in front of the tiny brown thing is greater than the number of small brown cubes on the right side of the big rubber cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_011189.png",
+        "question": "Is there a purple object of the same size as the purple cylinder or are there any other things that are the same material as the purple thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a purple object that is the same size as the purple cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_011201.png",
+        "question": "Is the large gray object the same shape as the brown object or are there any other things of the same color as the small shiny thing?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The large gray object is not the same shape as the brown object, and there are no other objects of the same color as the small shiny thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_011225.png",
+        "question": "Do the red sphere to the left of the large gray ball and the green sphere have the same material or are there any things that have the same size as the green shiny ball?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The red sphere to the left of the large gray ball and the green sphere have different materials. The red sphere is made of metal, while the green sphere is made of glass.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_011338.png",
+        "question": "Is the number of gray objects greater than the number of red matte cylinders or is there a gray metal thing that has the same size as the brown block?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of gray objects is greater than the number of red matte cylinders.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_011344.png",
+        "question": "Is the number of tiny green shiny things greater than the number of yellow things or are there more small cyan shiny objects that are in front of the yellow metallic object than cyan blocks?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are more small cyan shiny objects that are in front of the yellow metallic object than cyan blocks.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_011688.png",
+        "question": "Are there fewer gray matte objects than green objects or is there anything else that has the same size as the cyan rubber object?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer gray matte objects than green objects.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_011802.png",
+        "question": "Is there anything else that is the same material as the big brown object or are there any large green things that have the same shape as the large brown matte thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "No, there are no large green things that have the same shape as the large brown matte thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_011807.png",
+        "question": "Is there anything else that has the same material as the red thing or are there an equal number of purple blocks to the right of the matte block and things that are behind the purple shiny object?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are an equal number of purple blocks to the right of the matte block and behind the purple shiny object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_011821.png",
+        "question": "Is there anything else that has the same size as the gray metallic object or are there the same number of small rubber spheres left of the gray shiny sphere and small things?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there are the same number of small rubber spheres left of the gray shiny sphere and small things.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_011831.png",
+        "question": "Is the number of brown blocks that are left of the purple object the same as the number of brown cubes behind the small blue rubber cube or is the color of the object in front of the purple block the same as the small rubber thing behind the tiny blue matte object?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of brown blocks that are left of the purple object is the same as the number of brown cubes behind the small blue rubber cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_011877.png",
+        "question": "Are there any large red blocks made of the same material as the big blue cylinder or does the tiny green object have the same shape as the large blue matte thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are no large red blocks made of the same material as the big blue cylinder. The tiny green object has the same shape as the large blue matte thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_011907.png",
+        "question": "Are there any other things that are the same size as the brown block or is there any other thing that has the same material as the big thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "No, there are no other things that are the same size as the brown block or have the same material as the big thing. The brown block is the only object of its size and material in the image.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_011943.png",
+        "question": "Are there more balls on the left side of the large gray thing than gray metallic spheres behind the brown rubber ball or there is a object to the left of the big gray metallic thing; is it the same shape as the big shiny thing that is in front of the matte sphere?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there are more balls on the left side of the large gray thing than gray metallic spheres behind the brown rubber ball.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_012003.png",
+        "question": "Do the tiny object that is left of the large purple matte sphere and the large matte sphere have the same color or is there anything else that has the same color as the small shiny thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The tiny object that is left of the large purple matte sphere and the large matte sphere have different colors. The small shiny object has a gold color, while the large purple matte sphere has a purple color.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_012062.png",
+        "question": "Is there anything else of the same color as the large rubber cube or are there more blue matte things that are right of the big cyan object than small rubber things that are to the left of the blue rubber cube?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are more blue matte things that are right of the big cyan object than small rubber things that are to the left of the blue rubber cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_012108.png",
+        "question": "Are there any small things that are to the right of the object that is behind the tiny cyan matte object or are there any metallic objects of the same shape as the tiny rubber thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are no small things to the right of the object that is behind the tiny cyan matte object, and there are no metallic objects of the same shape as the tiny rubber thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_012168.png",
+        "question": "Is there anything else that has the same material as the large block or is there a tiny yellow matte block?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there is a tiny yellow matte block that has the same material as the large block.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_012303.png",
+        "question": "Is the number of big brown things behind the big brown metallic thing less than the number of shiny cylinders or is there a big purple cylinder made of the same material as the yellow thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a big purple cylinder made of the same material as the yellow thing, and the number of big brown things behind the big brown metallic thing is less than the number of shiny cylinders.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_012304.png",
+        "question": "Are there more rubber objects in front of the small green matte object than brown rubber objects or is the green metal object the same shape as the tiny gray rubber thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are more rubber objects in front of the small green matte object than brown rubber objects.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_012360.png",
+        "question": "Is the material of the tiny object behind the small red rubber thing the same as the small red thing on the left side of the large thing or is the number of gray balls to the right of the small gray thing less than the number of objects to the left of the big green rubber thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "the number of gray balls to the right of the small gray thing is less than the number of objects to the left of the big green rubber thing",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_012430.png",
+        "question": "Is the number of tiny blue matte things that are to the left of the large cyan rubber sphere less than the number of small gray matte balls or is the number of tiny matte things that are behind the big cyan ball less than the number of purple balls on the right side of the small blue ball?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "the number of tiny blue matte things that are to the left of the large cyan rubber sphere is less than the number of small gray matte balls.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_012471.png",
+        "question": "Are there any red cylinders that have the same size as the red rubber object or are there fewer big purple metal things that are on the right side of the purple metal cylinder than large blue things?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer big purple metal things that are on the right side of the purple metal cylinder than large blue things.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_012545.png",
+        "question": "Is there anything else that is made of the same material as the tiny object or there is a metallic object to the right of the yellow block; is it the same color as the cube in front of the large blue cube?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "Yes, there is a metallic object to the right of the yellow block, and it is the same color as the cube in front of the large blue cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_012781.png",
+        "question": "Are there any other things that are the same shape as the cyan thing or there is a cylinder in front of the tiny gray metallic cylinder; is its color the same as the shiny object behind the gray thing?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there is a cylinder in front of the tiny gray metallic cylinder, and its color is the same as the shiny object behind the gray thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_012847.png",
+        "question": "Is there any other thing that has the same size as the blue thing or are there fewer small cyan blocks than large spheres?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "there are fewer small cyan blocks than large spheres",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_012906.png",
+        "question": "Is there a cyan cylinder of the same size as the cyan thing or are there more green metallic cylinders that are in front of the big green metallic cylinder than large green rubber cylinders left of the small cyan cylinder?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are more green metallic cylinders that are in front of the big green metallic cylinder than large green rubber cylinders left of the small cyan cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_012911.png",
+        "question": "Is there anything else that has the same material as the tiny cylinder or is the tiny cylinder the same color as the metallic cylinder?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The tiny cylinder is the same color as the metallic cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_012936.png",
+        "question": "There is a cube right of the yellow matte block; is its color the same as the big thing that is in front of the yellow cube or are there any other blocks of the same size as the brown metallic block?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The cube right of the yellow matte block is the same size as the brown metallic block.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013017.png",
+        "question": "Is there any other thing that has the same size as the brown cylinder or is there a tiny purple rubber block?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is a tiny purple rubber block that has the same size as the brown cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013043.png",
+        "question": "Is there another ball that has the same color as the matte ball or are there more metallic spheres than things?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is another ball that has the same color as the matte ball, and there are more metallic spheres than things.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013063.png",
+        "question": "Is there any other thing that has the same material as the small gray cube or does the small metallic object behind the purple metallic thing have the same shape as the object that is in front of the tiny purple shiny thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The small metallic object behind the purple metallic thing has the same shape as the object that is in front of the tiny purple shiny thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013111.png",
+        "question": "Do the metal thing and the cylinder in front of the large metal thing have the same color or there is a gray object that is right of the large thing; is it the same shape as the object that is in front of the yellow metal cylinder?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There is a gray object that is right of the large metal thing, and it is not the same shape as the object that is in front of the yellow metal cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013152.png",
+        "question": "Is there any other thing that is the same shape as the big red metallic object or is the number of big cyan metal things right of the yellow thing greater than the number of green metal cubes?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "number of big cyan metal things right of the yellow thing greater than the number of green metal cubes",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013187.png",
+        "question": "Are there more small gray balls that are in front of the large cyan metal object than big metal things or are there any other things that are made of the same material as the gray thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are more small gray balls that are in front of the large cyan metal object than big metal things or any other things that are made of the same material as the gray thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013194.png",
+        "question": "Does the metallic thing that is behind the small thing have the same color as the matte cylinder in front of the big gray metallic cylinder or are there fewer cyan shiny cylinders than big cyan matte things?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer cyan shiny cylinders than big cyan matte things.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013223.png",
+        "question": "Does the big cyan cylinder that is behind the big blue metallic object have the same material as the big cyan object to the right of the tiny cylinder or is there any other thing that is the same shape as the big blue metal object?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The big cyan cylinder that is behind the big blue metallic object does not have the same material as the big blue metal object to the right of the tiny cylinder. The big blue metal object is made of aluminum, while the big cyan cylinder is made of plastic.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013237.png",
+        "question": "There is a big cyan object that is to the left of the large yellow cylinder; is its shape the same as the cyan rubber thing behind the gray cylinder or are there the same number of red cylinders left of the yellow matte cylinder and small metal objects?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "there are the same number of red cylinders left of the yellow matte cylinder and small metal objects",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013303.png",
+        "question": "Are there any other things that are the same size as the green matte ball or is the size of the matte thing that is in front of the red rubber sphere the same as the green matte thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The size of the matte thing that is in front of the red rubber sphere is the same as the green matte thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013321.png",
+        "question": "Is there a small brown matte cube that is behind the cube in front of the brown matte object or are there fewer large rubber objects on the left side of the small blue matte object than small blue metal objects?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer large rubber objects on the left side of the small blue matte object than small blue metal objects.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013366.png",
+        "question": "Is the number of matte objects that are left of the big matte object less than the number of big things that are on the right side of the large gray metallic sphere or is there anything else that has the same size as the blue rubber ball?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of matte objects that are left of the big matte object is less than the number of big things that are on the right side of the large gray metallic sphere.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013394.png",
+        "question": "There is a shiny ball in front of the red ball; is its size the same as the small red ball or are there any shiny balls of the same color as the large metallic thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is a shiny ball in front of the red ball, but its size is not the same as the small red ball. There are also other shiny balls of the same color as the large metallic thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013445.png",
+        "question": "Is there any other thing that has the same size as the purple object or are the green cylinder and the tiny thing behind the green cylinder made of the same material?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The green cylinder and the tiny thing behind the green cylinder are made of the same material.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013527.png",
+        "question": "Are there any other cylinders made of the same material as the small gray cylinder or does the blue thing have the same size as the brown thing that is to the left of the small brown metal cylinder?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are other cylinders made of the same material as the small gray cylinder, but the blue thing does not have the same size as the brown thing that is to the left of the small brown metal cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013543.png",
+        "question": "Does the object left of the brown thing have the same size as the metallic ball behind the tiny gray shiny thing or are there more big brown spheres that are in front of the small gray sphere than gray objects that are left of the large thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are more big brown spheres that are in front of the small gray sphere than gray objects that are left of the large thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013550.png",
+        "question": "Is the material of the cylinder that is in front of the cyan metal thing the same as the object left of the tiny purple rubber cylinder or are there fewer things behind the purple rubber cylinder than matte things that are in front of the brown thing?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer things behind the purple rubber cylinder than matte things that are in front of the brown thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013661.png",
+        "question": "Are there any other things that have the same size as the green rubber cylinder or are there any tiny brown things of the same shape as the purple rubber thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "No, there are no other things that have the same size as the green rubber cylinder or are there any tiny brown things of the same shape as the purple rubber thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013687.png",
+        "question": "Is the number of tiny rubber cylinders left of the big brown object greater than the number of brown metal cylinders or is there any other thing that is the same material as the big brown cylinder?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of tiny rubber cylinders left of the big brown object is greater than the number of brown metal cylinders.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013709.png",
+        "question": "Is the shape of the yellow object that is behind the large purple object the same as the yellow object that is right of the large green thing or are there fewer green metallic blocks that are left of the large rubber thing than purple rubber objects that are in front of the green object?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer green metallic blocks that are left of the large rubber thing than purple rubber objects that are in front of the green object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013763.png",
+        "question": "Do the blue object right of the big blue sphere and the big blue thing have the same material or are there any large blue balls that are behind the large matte thing to the right of the large red sphere?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The blue object right of the big blue sphere and the big blue thing do not have the same material. There are no large blue balls that are behind the large matte thing to the right of the large red sphere.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013827.png",
+        "question": "Does the rubber thing that is behind the small purple sphere have the same color as the thing in front of the tiny purple object or are there any other tiny spheres that have the same color as the tiny rubber sphere?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The rubber thing that is behind the small purple sphere has the same color as the thing in front of the tiny purple object. There are no other tiny spheres that have the same color as the tiny rubber sphere.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_013906.png",
+        "question": "Does the large yellow object have the same material as the big object that is in front of the big yellow shiny thing or are there fewer large green things on the right side of the large green thing than small purple metallic objects to the right of the purple thing?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer large green things on the right side of the large green thing than small purple metallic objects to the right of the purple thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014122.png",
+        "question": "Are there more purple blocks than red rubber cubes or is there anything else that is the same size as the green cube?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are more purple blocks than red rubber cubes.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014154.png",
+        "question": "Do the red object and the gray shiny thing have the same size or is the tiny gray shiny object the same shape as the big red thing?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The tiny gray shiny object is the same shape as the big red thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014219.png",
+        "question": "Is the number of big shiny things right of the big brown object greater than the number of brown metallic objects to the right of the purple matte cylinder or does the purple metal thing have the same shape as the matte object?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Does the number of big shiny things right of the big brown object greater than the number of brown metallic objects to the right of the purple matte cylinder or does the purple metal thing have the same shape as the matte object? The number of big shiny things right of the big brown object is greater than the number of brown metallic objects to the right of the purple matte cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014240.png",
+        "question": "There is a large sphere in front of the big green rubber ball; does it have the same color as the big object on the left side of the tiny purple object or do the rubber thing that is behind the red thing and the purple thing have the same size?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "The large sphere in front of the big green rubber ball has the same color as the big object on the left side of the tiny purple object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014322.png",
+        "question": "There is a red shiny ball; does it have the same size as the cyan thing that is left of the big purple thing or is there another small thing that has the same color as the matte thing?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "there is another small thing that has the same color as the matte thing",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014343.png",
+        "question": "Are there any metallic cylinders that have the same color as the small metal thing or is there a large metallic cylinder on the right side of the large metal object to the left of the big metallic cylinder that is behind the tiny red metallic cylinder?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are no metallic cylinders that have the same color as the small metal thing. There is a large metallic cylinder on the right side of the large metal object to the left of the big metallic cylinder that is behind the tiny red metallic cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014382.png",
+        "question": "Are there any large purple things that have the same shape as the brown object or is the number of balls in front of the cyan rubber thing greater than the number of brown things behind the brown sphere?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are no large purple things that have the same shape as the brown object. The number of balls in front of the cyan rubber thing is greater than the number of brown things behind the brown sphere.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014397.png",
+        "question": "Do the small green shiny thing and the big gray metallic object have the same shape or is there a large yellow object that has the same material as the large yellow cylinder?",
+        "q1 answer": "yes",
+        "q2 answer": "no",
+        "ground_truth": "yes",
+        "model_generated_answer": "The small green shiny thing and the big gray metallic object do not have the same shape. There is a large yellow object that has the same material as the large gray cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014399.png",
+        "question": "Does the small red object have the same material as the gray thing or are there fewer small cyan cylinders behind the big cylinder than small red cylinders that are to the right of the tiny shiny thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There are fewer small red cylinders behind the big cylinder than small red cylinders that are to the right of the tiny shiny thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014432.png",
+        "question": "Is the shape of the tiny thing the same as the large blue object or there is a large blue thing; is it the same shape as the gray thing in front of the tiny cylinder?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The shape of the tiny thing is the same as the large blue object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014449.png",
+        "question": "Are there fewer large red things right of the large red metallic object than brown matte blocks in front of the brown metal thing or are there any large red cubes that are behind the brown matte object that is to the right of the object that is behind the large red cube?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are fewer large red things right of the large red metallic object than brown matte blocks in front of the brown metal thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014464.png",
+        "question": "Is the number of brown objects that are to the left of the brown object less than the number of big yellow rubber spheres or there is a small metallic object that is in front of the blue cube; are there any tiny objects to the right of it?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of brown objects that are to the left of the brown object is less than the number of big yellow rubber spheres. There is also a small metallic object that is in front of the blue cube.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014497.png",
+        "question": "Is there any other thing that is the same size as the blue shiny sphere or is there anything else that is the same shape as the tiny cyan object?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there is another object that is the same size as the blue shiny sphere. The tiny cyan object is not the same shape as the blue shiny sphere.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014559.png",
+        "question": "Is the number of small metal objects greater than the number of cylinders or are there more small red objects that are to the right of the large green cylinder than big gray shiny objects to the left of the big gray shiny cylinder?",
+        "q1 answer": "no",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "There are more small red objects that are to the right of the large green cylinder than big gray shiny objects to the left of the big gray shiny cylinder.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014731.png",
+        "question": "Is there a tiny rubber object that has the same shape as the large object or there is a small cyan thing behind the small rubber cube to the right of the large blue metal object; are there any large blue shiny things that are in front of it?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there is a small rubber object that has the same shape as the large blue metal object, and there is a small cyan thing behind the small rubber cube to the right of the large blue metal object.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014740.png",
+        "question": "Do the purple thing and the big brown cylinder that is in front of the big green rubber thing have the same material or do the purple object and the large rubber thing to the right of the large purple cylinder have the same shape?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The purple object and the large rubber thing to the right of the large purple cylinder have the same shape.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014806.png",
+        "question": "Is there another green metallic sphere of the same size as the metal sphere or is there another green metallic object of the same shape as the large green thing?",
+        "q1 answer": "no",
+        "q2 answer": "no",
+        "ground_truth": "no",
+        "model_generated_answer": "There is another green metallic sphere of the same size as the large green thing.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014813.png",
+        "question": "Are there any other metallic objects of the same shape as the large yellow object or there is a big metal thing that is in front of the red shiny ball; is there a thing on the right side of it?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "Yes, there are other metallic objects of the same shape as the large yellow object, and there is a big metal thing that is in front of the red shiny ball.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014903.png",
+        "question": "There is a thing that is behind the gray metallic object; is it the same size as the red shiny object or is the number of gray spheres to the right of the yellow rubber ball less than the number of big metal objects that are in front of the large gray metal ball?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The number of gray spheres to the right of the yellow rubber ball is less than the number of big metal objects that are in front of the large gray metal ball.",
+        "consistent": ""
+    },
+    {
+        "image_filename": "CLEVR_val_014914.png",
+        "question": "Do the large thing and the small block behind the blue matte block have the same color or there is a small thing behind the blue rubber block; does it have the same shape as the small object that is in front of the small green object?",
+        "q1 answer": "yes",
+        "q2 answer": "yes",
+        "ground_truth": "yes",
+        "model_generated_answer": "The large thing and the small block behind the blue matte block do not have the same color. The large thing is green, while the small block behind the blue matte block is blue. Additionally, the small block behind the blue matte block does not have the same shape as the small object that is in front of it.",
+        "consistent": ""
     }
 ]
