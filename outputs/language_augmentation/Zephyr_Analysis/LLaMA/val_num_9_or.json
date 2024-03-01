@@ -1,1 +1,1 @@
-{"no_correct": 240, "yes_correct": 1245, "no_incorrect": 173, "yes_incorrect": 156, "prediction": {"correct": 1485, "incorrect": 329, "unknown": 0}, "accuracy": 0.818632855567806}
+{"or_no_correct": 240, "or_yes_correct": 1245, "or_no_incorrect": 173, "or_yes_incorrect": 156, "prediction": {"correct": 1485, "incorrect": 329, "unknown": 0}, "accuracy": 0.818632855567806}
