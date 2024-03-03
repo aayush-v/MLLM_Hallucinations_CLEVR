@@ -1,1 +1,1 @@
-{"orig_no_correct": 1218, "orig_yes_correct": 784, "orig_no_incorrect": 1005, "orig_yes_incorrect": 693, "prediction": {"correct": 2002, "incorrect": 1698, "unknown": 0}, "accuracy": 0.5410810810810811}
+{"orig_no_correct": 815, "orig_yes_correct": 784, "orig_no_incorrect": 662, "orig_yes_incorrect": 693, "prediction": {"correct": 1599, "incorrect": 1355, "unknown": 0}, "accuracy": 0.5412999322951929}
