@@ -6,21 +6,20 @@ from tqdm import tqdm
 from transformers import InstructBlipProcessor, InstructBlipForConditionalGeneration
 import sys
 
-image_path = '/scratch/nmachav1/CLEVR_v1.0/images/val/'
-model = InstructBlipForConditionalGeneration.from_pretrained("Salesforce/instructblip-vicuna-7b")
-processor = InstructBlipProcessor.from_pretrained("Salesforce/instructblip-vicuna-7b")
+model = InstructBlipForConditionalGeneration.from_pretrained("Salesforce/instructblip-vicuna-7b", cache_dir='/scratch/averma90')
+processor = InstructBlipProcessor.from_pretrained("Salesforce/instructblip-vicuna-7b", cache_dir='/scratch/averma90')
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model.to(device)
 
-image_path = '/scratch/nmachav1/CLEVR_v1.0/images/val/'
-ques_type = ['and', 'or', 'not', 'orig', 'complex']
-object_type = ['inter']
-
+image_path = '/scratch/averma90/CLEVR_v1.0/images/val/'
+ques_type = ['and_not', 'not_and', 'not_or', 'or_not', 'not']
+# object_type = ['inter']
+ques_type = [sys.argv[1]]
 for ques in ques_type:
     #if i == 'inter' or i == 'intra' :
-    dataset = f'/scratch/nmachav1/MLLM_Hallucinations_CLEVR/dataset/language_augmentation/val_type_inter_{ques}.json'
-    output_path = f'/scratch/nmachav1/MLLM_Hallucinations_CLEVR/outputs/language_augmentation/InstructBLIP/val_type_inter_{ques}.json'
+    dataset = f'/scratch/averma90/MLLM_Hallucinations_CLEVR/dataset/langauge_augmentation_v2/val_total_{ques}.json'
+    output_path = f'/scratch/averma90/MLLM_Hallucinations_CLEVR/outputs/language_augmentation/InstructBLIP_2/val_total_{ques}.json'
     print(dataset)
     # else:
     #     dataset = f'/scratch/nmachav1/MLLM_Hallucinations_CLEVR/dataset/language_augmentation/val_num_{i}_{ques}.json'
