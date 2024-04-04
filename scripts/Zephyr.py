@@ -3,11 +3,11 @@ from tqdm import tqdm
 import os
 import glob
 import torch
-
+import sys
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-tokenizer = AutoTokenizer.from_pretrained("HuggingFaceH4/zephyr-7b-beta")
-model = AutoModelForCausalLM.from_pretrained("HuggingFaceH4/zephyr-7b-beta")
+tokenizer = AutoTokenizer.from_pretrained("HuggingFaceH4/zephyr-7b-beta", cache_dir='/scratch/averma90')
+model = AutoModelForCausalLM.from_pretrained("HuggingFaceH4/zephyr-7b-beta", cache_dir='/scratch/averma90')
 device = "cuda"
 model.to(device)
 
@@ -70,8 +70,8 @@ def evalZephyr(promptList):
 
     return consistent_texts
 
-QA_PATH = '/scratch/nmachav1/MLLM_Hallucinations_CLEVR/outputs/language_augmentation/InstructBLIP'
-SAVE_FOLDER = '/scratch/nmachav1/MLLM_Hallucinations_CLEVR/outputs/language_augmentation/Zephyr_Results'
+QA_PATH = '/scratch/averma90/MLLM_Hallucinations_CLEVR/outputs/language_augmentation/InstructBLIP_2'
+SAVE_FOLDER = '/scratch/averma90/MLLM_Hallucinations_CLEVR/outputs/lang_aug_2/Zephyr_Results/'
 all_files = []
 for root, dirs, files in os.walk(QA_PATH):
     # Exclude files from the ".ipynb_checkpoints" folder
@@ -84,10 +84,20 @@ for root, dirs, files in os.walk(QA_PATH):
             # Process the file or do whatever you need with it
             #print(f"Processing file: {file_path}")
             all_files.append(file_path)
+
+model = sys.argv[1]
+qtype = sys.argv[2]
+
+all_file = [f'/scratch/averma90/MLLM_Hallucinations_CLEVR/outputs/lang_aug_2/Model_Results/{model}/val_total_{qtype}.json']
+SAVE_FOLDER = f'/scratch/averma90/MLLM_Hallucinations_CLEVR/outputs/lang_aug_2/Zephyr_Results/{model}'
+save_path = os.path.join(SAVE_FOLDER, file.split("/")[-1])
+
 print(all_files)
+print(save_path)
+
 for file in all_files:
     print(file)
     evals = performEvaluation(file)
 
-    with open(os.path.join(SAVE_FOLDER, file.split("/")[-2]+"/"+file.split("/")[-1]), 'w') as file:
+    with open(save_path, 'w') as file:
         json.dump(evals, file)

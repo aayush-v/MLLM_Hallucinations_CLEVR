@@ -4,7 +4,7 @@
 #SBATCH --mem=128G
 #SBATCH -N 1            # number of nodes
 #SBATCH -c 4            # number of cores 
-#SBATCH -t 7-00:00:00   # time in d-hh:mm:ss
+#SBATCH -t 0-01:10:00   # time in d-hh:mm:ss
 #SBATCH -p general      # partition 
 #SBATCH -q public       # QOS
 #SBATCH -o slurm.%j.out # file to save job's STDOUT (%j = JobId)
@@ -15,7 +15,7 @@
 # Load required modules for job's environment
 module load mamba/latest
 # Using python, so source activate an appropriate environment
-source activate llava1
+source activate mllm_hallucination
 
-python Zephyr.py
+python Zephyr.py "$1" "$2"
 
