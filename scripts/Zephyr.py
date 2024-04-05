@@ -11,6 +11,7 @@ model = AutoModelForCausalLM.from_pretrained("HuggingFaceH4/zephyr-7b-beta", cac
 device = "cuda"
 model.to(device)
 
+print(model)
 question_structure = "I will use you as an evaluator. I will give you ground truth, and a model generated answer. I want you to tell me if the ground truth and model generated answer are consistent."
 
 def performEvaluation(path):
@@ -46,7 +47,6 @@ def evalZephyr(promptList):
     for batch in tqdm(batches):
         model_inputs = tokenizer(batch, return_tensors="pt", padding=True).to(device)
         
-    
         generated_ids = model.generate(
         # seed = 42,
         **model_inputs, 
@@ -85,12 +85,12 @@ for root, dirs, files in os.walk(QA_PATH):
             #print(f"Processing file: {file_path}")
             all_files.append(file_path)
 
-model = sys.argv[1]
+llm = sys.argv[1]
 qtype = sys.argv[2]
 
-all_file = [f'/scratch/averma90/MLLM_Hallucinations_CLEVR/outputs/lang_aug_2/Model_Results/{model}/val_total_{qtype}.json']
-SAVE_FOLDER = f'/scratch/averma90/MLLM_Hallucinations_CLEVR/outputs/lang_aug_2/Zephyr_Results/{model}'
-save_path = os.path.join(SAVE_FOLDER, file.split("/")[-1])
+all_files = [f'/scratch/averma90/MLLM_Hallucinations_CLEVR/outputs/lang_aug_2/Model_Results/{llm}/val_total_{qtype}.json']
+SAVE_FOLDER = f'/scratch/averma90/MLLM_Hallucinations_CLEVR/outputs/lang_aug_2/Zephyr_Results/{llm}'
+save_path = os.path.join(SAVE_FOLDER, all_files[0].split("/")[-1])
 
 print(all_files)
 print(save_path)
